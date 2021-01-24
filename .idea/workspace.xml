@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f50f74a5-ea38-4253-82e8-2836b0b9ad12" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/course-api-testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ui_api_testing_framework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/threek_apitest/src/configs/hosts_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/threek_apitest/src/configs/hosts_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/threek_apitest/src/dao/customers_dao.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/threek_apitest/src/dao/customers_dao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/threek_apitest/src/dao/products_dao.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/threek_apitest/src/dao/products_dao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/threek_apitest/src/helpers/customers_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/threek_apitest/src/helpers/customers_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/threek_apitest/src/helpers/orders_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/threek_apitest/src/helpers/orders_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/threek_apitest/src/helpers/products_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/threek_apitest/src/helpers/products_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/threek_apitest/src/utilities/dbUtility.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/threek_apitest/src/utilities/dbUtility.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/threek_apitest/src/utilities/genericUtilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/threek_apitest/src/utilities/genericUtilities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/threek_apitest/src/utilities/requestsUtility.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/threek_apitest/src/utilities/requestsUtility.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/threek_apitest/src/utilities/wooAPIUtility.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/threek_apitest/src/utilities/wooAPIUtility.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/threek_apitest-1.0-py3.8.egg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/threek_apitest-1.0-py3.8.egg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest.egg-info/SOURCES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest.egg-info/requires.txt" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest.egg-info/requires.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest.egg-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest.egg-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/src/dao/customers_dao.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/src/dao/customers_dao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/src/dao/orders_dao.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/src/dao/orders_dao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/src/dao/products_dao.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/src/dao/products_dao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/src/helpers/coupon_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/src/helpers/coupon_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/src/helpers/customers_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/src/helpers/customers_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/src/helpers/orders_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/src/helpers/orders_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/src/helpers/products_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/src/helpers/products_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/src/utilities/dbUtility.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/src/utilities/dbUtility.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/src/utilities/requestsUtility.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/src/utilities/requestsUtility.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/src/utilities/wooAPIUtility.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/src/utilities/wooAPIUtility.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/tests/coupons/test_create_coupon_with_discount.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/tests/coupons/test_create_coupon_with_discount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/tests/customers/test_create_customers_smoke.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/tests/customers/test_create_customers_smoke.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/tests/customers/test_get_customers_smoke.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/tests/customers/test_get_customers_smoke.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/tests/orders/test_apply_valid_coupon_to_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/tests/orders/test_apply_valid_coupon_to_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/tests/orders/test_create_order_smoke.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/tests/orders/test_create_order_smoke.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/tests/orders/test_update_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/tests/orders/test_update_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/tests/products/test_create_products_smoke.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/tests/products/test_create_products_smoke.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/tests/products/test_get_products_smoke.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/tests/products/test_get_products_smoke.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/tests/products/test_get_products_with_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/tests/products/test_get_products_with_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threek_apitest/tests/products/test_update_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/threek_apitest/tests/products/test_update_product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/EGG-INFO/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/EGG-INFO/SOURCES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/EGG-INFO/requires.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/EGG-INFO/requires.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/EGG-INFO/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/EGG-INFO/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/configs/hosts_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/configs/hosts_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/dao/customers_dao.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/dao/customers_dao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/dao/products_dao.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/dao/products_dao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/helpers/customers_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/helpers/customers_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/helpers/orders_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/helpers/orders_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/helpers/products_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/helpers/products_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/utilities/dbUtility.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/utilities/dbUtility.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/utilities/genericUtilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/utilities/genericUtilities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/utilities/requestsUtility.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/utilities/requestsUtility.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/utilities/wooAPIUtility.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/threek_apitest-1.0-py3.8.egg/threek_apitest/src/utilities/wooAPIUtility.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/chardetect-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/chardetect-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/py.test-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/py.test-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pytest-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pytest-script.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j6nMvIEZfuW9DKJQJxb1kUL8EW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/selenium_ui" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="course-api-testing" is-module-sdk="true">
+        <envs>
+          <env key="DB_PASSWORD" value="root" />
+          <env key="DB_USER" value="root" />
+          <env key="WC_KEY" value="ck_1c91f8667de602fcc336ed8532950298d2f2317b" />
+          <env key="WC_SECRET" value="cs_97403376accb39707368c3a97786ca9f54fc441a" />
+        </envs>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="course-api-testing" />
+        <option name="myEnvs">
+          <map>
+            <entry key="DB_PASSWORD" value="root" />
+            <entry key="DB_USER" value="root" />
+            <entry key="WC_KEY" value="ck_1c91f8667de602fcc336ed8532950298d2f2317b" />
+            <entry key="WC_SECRET" value="cs_97403376accb39707368c3a97786ca9f54fc441a" />
+          </map>
+        </option>
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\komro\PycharmProjects\course-api-testing\selenium_ui" />
+      <recent name="C:\Users\komro\PycharmProjects\course-api-testing" />
+      <recent name="C:\Users\komro\PycharmProjects\course-api-testing\my_tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\komro\PycharmProjects\course-api-testing" />
+      <recent name="C:\Users\komro\PycharmProjects\course-api-testing\threek_apitest" />
+      <recent name="C:\Users\komro\PycharmProjects\course-api-testing\threek_apitest\tests" />
+      <recent name="C:\Users\komro\PycharmProjects\course-api-testing\my_tests" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="ui_api_testing_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ui_api_testing_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="WC_KEY" value="ck_1c91f8667de602fcc336ed8532950298d2f2317b" />
+        <env name="WC_SECRET" value="cs_97403376accb39707368c3a97786ca9f54fc441a" />
+        <env name="DB_USER" value="root" />
+        <env name="DB_PASSWORD" value="root" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="ui_api_testing_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="ui_api_testing_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="ui_api_testing_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.api_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f50f74a5-ea38-4253-82e8-2836b0b9ad12" name="Default Changelist" comment="" />
+      <created>1603133364364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603133364364</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
