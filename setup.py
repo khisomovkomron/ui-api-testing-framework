@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 
-setup(name='threek_apitest',
+setup(name='ui_api_testing_framework',
       version='1.0',
       description="Practice API testing",
       author="Komron Khisomov",
