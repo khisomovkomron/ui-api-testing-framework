@@ -35,7 +35,7 @@ class LoginPage(BasePage):
         self.click_login_button()
 
     def verify_login_successful(self):
-        self.wait_for_element("                ")
+        self.wait_for_element("//div[@id='navbar']//li[@class='dropdown'")
         result = self.is_element_present(locator="//div[@id='navbar']//li[@class='dropdown']"
                                          , locatortype="xpath")
         return result

@@ -14,5 +14,6 @@ setup(name='ui_api_testing_framework',
                                                   'pymysql',
                                                   'requests-oauthlib',
                                                   'pytest-html',
+                                                  'html-testRunner==1.2.1',
                                                   ]
       )

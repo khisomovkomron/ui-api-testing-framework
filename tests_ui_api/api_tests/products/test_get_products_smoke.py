@@ -4,7 +4,7 @@ import logging as logger
 from base_helpers.api_helpers.dao.products_dao import ProductsDAO
 from base_helpers.api_helpers.helpers.products_helper import ProductsHelper
 
-pytestmark = [pytest.mark.products, pytest.mark.smoke]
+pytestmark = [pytest.mark.products, pytest.mark.smoke, pytest.mark.regression]
 
 @pytest.mark.tcid24
 def test_get_all_products():

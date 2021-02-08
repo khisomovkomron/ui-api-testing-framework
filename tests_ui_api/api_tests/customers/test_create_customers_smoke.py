@@ -5,7 +5,7 @@ from base_helpers.api_helpers.helpers.customers_helper import CustomerHelper
 from base_helpers.api_helpers.dao.customers_dao import CustomerDAO
 from base_helpers.api_helpers.utilities.requestsUtility import RequestsUtility
 
-pytestmark = [pytest.mark.customers, pytest.mark.smoke]
+pytestmark = [pytest.mark.customers, pytest.mark.smoke, pytest.mark.regression]
 
 
 @pytest.mark.tcid29

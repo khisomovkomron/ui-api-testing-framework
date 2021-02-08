@@ -5,6 +5,7 @@ from base_helpers.api_helpers.utilities.wooAPIUtility import WooAPIUtility
 import random
 import logging as logger
 
+pytestmark = [pytest.mark.coupons, pytest.mark.smoke, pytest.mark.regression]
 
 @pytest.fixture(scope='module')
 def my_setup():
@@ -69,7 +70,6 @@ def test_create_coupon_with_invalid_discount_type():
     payload['discount_type'] = generate_random_string()
     rs_coupon = WooAPIUtility().post('coupons', params=payload, expected_status_code=400)
 
-    import pdb; pdb.set_trace()
     assert rs_coupon['code'] == 'rest_invalid_param',f"Create coupon with invalid 'discount_type'," \
            f"returned 'code' = {rs_coupon['code']}, Expected code: 'rest_invalid_param'."
     assert rs_coupon['message'] == 'Неверный параметр: discount_type', f"Crete coupon with invalid 'discount_type' " \

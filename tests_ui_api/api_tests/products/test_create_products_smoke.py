@@ -3,7 +3,7 @@ from base_helpers.api_helpers.utilities.genericUtilities import generate_random_
 from base_helpers.api_helpers.helpers.products_helper import ProductsHelper
 from base_helpers.api_helpers.dao.products_dao import ProductsDAO
 
-pytestmark = [pytest.mark.products, pytest.mark.smoke]
+pytestmark = [pytest.mark.products, pytest.mark.smoke, pytest.mark.regression]
 
 @pytest.mark.tcid26
 def test_create_1_simple_product():

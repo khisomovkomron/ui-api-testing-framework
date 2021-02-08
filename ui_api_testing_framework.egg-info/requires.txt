@@ -1,0 +1,6 @@
+requests==2.24.0
+pytest==6.1.1
+woocommerce
+pymysql
+requests-oauthlib
+pytest-html

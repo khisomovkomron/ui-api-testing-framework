@@ -4,7 +4,7 @@ from base_helpers.api_helpers.utilities.genericUtilities import generate_random_
 import pdb
 import pytest
 
-pytestmark = [pytest.mark.orders, pytest.mark.regression]
+pytestmark = [pytest.mark.orders, pytest.mark.regression, pytest.mark.regression]
 
 @pytest.mark.parametrize("new_status", [
     pytest.param('cancelled', marks=[pytest.mark.tcid55, pytest.mark.smoke]),

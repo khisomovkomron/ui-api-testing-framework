@@ -4,6 +4,9 @@ from base_helpers.api_helpers.dao.products_dao import ProductsDAO
 import pytest
 import random
 
+pytestmark = [pytest.mark.products, pytest.mark.smoke, pytest.mark.regression]
+
+
 @pytest.mark.tcid61
 def test_update_product_status():
 

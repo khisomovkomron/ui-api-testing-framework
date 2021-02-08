@@ -3,7 +3,7 @@ import pytest
 from base_helpers.api_helpers.utilities.requestsUtility import RequestsUtility
 import logging as logger
 
-pytestmark = [pytest.mark.customers, pytest.mark.smoke]
+pytestmark = [pytest.mark.customers, pytest.mark.smoke, pytest.mark.regression]
 
 
 @pytest.mark.tcid30

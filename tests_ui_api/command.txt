@@ -1,0 +1,8 @@
+#how to generate python pytest html report
+{command} --htm=report.html --self-contained-html
+
+You need to create pytest.ini file in the project folder and add this:
+[pytest]
+addopts = -v –-html=report.html –-self-contained-html
+
+#how to run test suite using unittest

@@ -2,69 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f50f74a5-ea38-4253-82e8-2836b0b9ad12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ui_api_testing_framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ui_api_testing_framework.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api.egg-info/PKG-INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api.egg-info/SOURCES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api.egg-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api.egg-info/requires.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api.egg-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/pytest.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/reports/assets/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/reports/customers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/configs/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/configs/hosts_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/dao/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/dao/customers_dao.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/dao/orders_dao.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/dao/products_dao.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/data/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/data/create_order_payload.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/helpers/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/helpers/coupon_helper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/helpers/customers_helper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/helpers/orders_helper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/helpers/products_helper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/utilities/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/utilities/credentialsUtility.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/utilities/dbUtility.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/utilities/genericUtilities.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/utilities/requestsUtility.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/utilities/wooAPIUtility.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/coupons/test_create_coupon_with_discount.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/customers/test_create_customers_smoke.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/customers/test_get_customers_smoke.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/orders/test_apply_valid_coupon_to_order.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/orders/test_create_order_smoke.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/orders/test_update_order.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/products/test_create_products_smoke.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/products/test_get_products_smoke.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/products/test_get_products_with_filter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/products/test_update_product.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/test_healthcheck.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/threek_apitest-1.0-py3.8.egg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/threek_apitest-1.0-py3.8.egg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/base/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/base/basepage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/base/seleniumDriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/base/webdriverfactory.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/pages/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/pages/home/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/pages/home/login_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/pages/home/navigation_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/tests/conftest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/tests/home/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/tests/home/geckodriver.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/tests/home/login_tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/utilities/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/utilities/teststatus.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_ui/utilities/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_helpers/api_helpers/configs/hosts_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_helpers/api_helpers/configs/hosts_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_helpers/api_helpers/utilities/requestsUtility.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_helpers/api_helpers/utilities/requestsUtility.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_helpers/ui_helpers/basepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_helpers/ui_helpers/basepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_helpers/ui_helpers/ui_utilities/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_helpers/ui_helpers/ui_utilities/teststatus.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_helpers/ui_helpers/status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_helpers/ui_helpers/ui_utilities/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_helpers/ui_helpers/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/ui_api_testing_framework-1.0-py3.8.egg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/ui_api_testing_framework-1.0-py3.8.egg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages_objects/ui_pages/home/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages_objects/ui_pages/home/login_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/coupons/test_create_coupon_with_discount.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/coupons/test_create_coupon_with_discount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/customers/test_create_customers_smoke.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/customers/test_create_customers_smoke.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/customers/test_get_customers_smoke.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/customers/test_get_customers_smoke.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/orders/test_apply_valid_coupon_to_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/orders/test_apply_valid_coupon_to_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/orders/test_create_order_smoke.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/orders/test_create_order_smoke.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/orders/test_update_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/orders/test_update_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/products/test_create_products_smoke.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/products/test_create_products_smoke.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/products/test_get_products_smoke.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/products/test_get_products_smoke.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/products/test_get_products_with_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/products/test_get_products_with_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/products/test_update_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/products/test_update_product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/pytest.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/ui_tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/ui_tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/ui_tests/home/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/ui_tests/home/geckodriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/ui_tests/home/login_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/ui_tests/test_login.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,10 +47,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1j6nMvIEZfuW9DKJQJxb1kUL8EW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2_pages(objects)" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/python/selenium/Let's Kode It Tutorial/letskodeit" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -113,18 +79,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\base_helpers\ui_helpers" />
+      <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\tests_ui_api" />
+      <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\tests_ui_api\ui_tests" />
+      <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework" />
       <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\3_tests(ui_and_api)" />
-      <recent name="C:\Users\komro\PycharmProjects\course-api-testing" />
-      <recent name="C:\Users\komro\PycharmProjects\course-api-testing\threek_apitest" />
-      <recent name="C:\Users\komro\PycharmProjects\course-api-testing\threek_apitest\tests" />
-      <recent name="C:\Users\komro\PycharmProjects\course-api-testing\my_tests" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\tests_ui_api\ui_tests" />
       <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\2_pages(objects)" />
       <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework" />
       <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\3_tests(ui_and_api)" />
       <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\3_tests(ui_and_api)\api_tests" />
-      <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\1_base(helpers)\ui_helpers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -139,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.test_suite">
     <configuration name="api_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ui_api_testing_framework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,8 +131,45 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_suite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ui_api_testing_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests_ui_api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests_ui_api/test_suite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for tests_ui_api.ui_tests.test_login.LoginTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ui_api_testing_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests_ui_api/ui_tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests_ui_api.ui_tests.test_login.LoginTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_suite" />
+        <item itemvalue="Python tests.Unittests for tests_ui_api.ui_tests.test_login.LoginTest" />
         <item itemvalue="Python.api_test" />
       </list>
     </recent_temporary>
@@ -183,6 +186,9 @@
       <updated>1603133364364</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bat" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

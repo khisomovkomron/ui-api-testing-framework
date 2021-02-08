@@ -3,7 +3,7 @@ from base_helpers.api_helpers.helpers.orders_helper import OrdersHelper
 from base_helpers.api_helpers.helpers.customers_helper import CustomerHelper
 import pytest
 
-pytestmark = [pytest.mark.orders, pytest.mark.smoke]
+pytestmark = [pytest.mark.orders, pytest.mark.smoke, pytest.mark.regression]
 
 @pytest.fixture(scope='module')
 def my_order_smoke_setup():

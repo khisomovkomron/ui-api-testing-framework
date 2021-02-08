@@ -3,6 +3,9 @@ from base_helpers.api_helpers.helpers.orders_helper import  OrdersHelper
 import pytest
 import random
 
+pytestmark = [pytest.mark.orders, pytest.mark.smoke, pytest.mark.regression]
+
+
 @pytest.fixture(scope='module')
 def my_setup_teardown():
     # hard code 50% coupon
