@@ -6,3 +6,4 @@ You need to create pytest.ini file in the project folder and add this:
 addopts = -v –-html=report.html –-self-contained-html
 
 #how to run test suite using unittest
+new to be done
