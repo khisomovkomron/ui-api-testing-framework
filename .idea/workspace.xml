@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f50f74a5-ea38-4253-82e8-2836b0b9ad12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_helpers/api_helpers/configs/hosts_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_helpers/api_helpers/configs/hosts_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_helpers/api_helpers/utilities/requestsUtility.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_helpers/api_helpers/utilities/requestsUtility.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_helpers/ui_helpers/basepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_helpers/ui_helpers/basepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_helpers/ui_helpers/ui_utilities/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_helpers/ui_helpers/ui_utilities/teststatus.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_helpers/ui_helpers/status.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_helpers/ui_helpers/ui_utilities/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_helpers/ui_helpers/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ui_api_testing_framework-1.0-py3.8.egg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/ui_api_testing_framework-1.0-py3.8.egg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages_objects/ui_pages/home/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages_objects/ui_pages/home/login_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/coupons/test_create_coupon_with_discount.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/coupons/test_create_coupon_with_discount.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/customers/test_create_customers_smoke.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/customers/test_create_customers_smoke.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/customers/test_get_customers_smoke.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/customers/test_get_customers_smoke.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/orders/test_apply_valid_coupon_to_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/orders/test_apply_valid_coupon_to_order.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/orders/test_create_order_smoke.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/orders/test_create_order_smoke.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/orders/test_update_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/orders/test_update_order.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/products/test_create_products_smoke.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/products/test_create_products_smoke.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/products/test_get_products_smoke.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/products/test_get_products_smoke.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/products/test_get_products_with_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/products/test_get_products_with_filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/products/test_update_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/api_tests/products/test_update_product.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/api_tests/pytest.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/ui_tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/ui_tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/ui_tests/home/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/ui_tests/home/geckodriver.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests_ui_api/ui_tests/home/login_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/ui_tests/test_login.py" afterDir="false" />
-    </list>
+    <list default="true" id="f50f74a5-ea38-4253-82e8-2836b0b9ad12" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
