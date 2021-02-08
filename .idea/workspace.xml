@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f50f74a5-ea38-4253-82e8-2836b0b9ad12" name="Default Changelist" comment="" />
+    <list default="true" id="f50f74a5-ea38-4253-82e8-2836b0b9ad12" name="Default Changelist" comment="new update">
+      <change beforePath="$PROJECT_DIR$/tests_ui_api/test_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests_ui_api/test_suite.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,19 +52,19 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\base_helpers\ui_helpers" />
-      <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\tests_ui_api" />
-      <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\tests_ui_api\ui_tests" />
-      <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework" />
-      <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\3_tests(ui_and_api)" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\tests_ui_api\ui_tests" />
       <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\2_pages(objects)" />
       <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework" />
       <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\3_tests(ui_and_api)" />
       <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\3_tests(ui_and_api)\api_tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework" />
+      <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\base_helpers\ui_helpers" />
+      <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\tests_ui_api" />
+      <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\tests_ui_api\ui_tests" />
+      <recent name="C:\Users\komro\PycharmProjects\ui_api_testing_framework\3_tests(ui_and_api)" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -171,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612816639498</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new update">
+      <created>1612817249651</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612817249651</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
